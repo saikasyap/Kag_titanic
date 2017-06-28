@@ -317,7 +317,7 @@ public class RandomForestsKaggle {
 
 
     }
-// still needs debugging....
+//Got a score of 0.8/1 with this code..
 
 
 
