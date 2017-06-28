@@ -322,7 +322,7 @@ public class NaiveBayes_kagTitanic {
 
 
     }
-// Have a got a score of 0.79426/1 after submission for this code...
+//Needs bit of debugging..
 
 
 
